@@ -11,9 +11,9 @@ import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-/**
- * Параметризованные тесты для метода getPrice
- */
+
+ //Параметризованные тесты для метода getPrice
+
 @RunWith(Parameterized.class)
 public class BurgerPriceParameterizedTest {
 

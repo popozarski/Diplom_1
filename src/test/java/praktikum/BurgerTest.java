@@ -6,9 +6,9 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
 
-/**
- * Тесты для класса Burger без параметризации
- */
+
+ //Тесты для класса Burger без параметризации
+
 public class BurgerTest {
 
     private Burger burger;

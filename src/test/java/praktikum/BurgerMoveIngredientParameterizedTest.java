@@ -10,9 +10,9 @@ import java.util.Collection;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.mock;
 
-/**
- * Параметризованные тесты для метода moveIngredient
- */
+
+ //Параметризованные тесты для метода moveIngredient
+
 @RunWith(Parameterized.class)
 public class BurgerMoveIngredientParameterizedTest {
 
